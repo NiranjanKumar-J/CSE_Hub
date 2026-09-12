@@ -24,11 +24,11 @@ y = f( Σ wᵢxᵢ + b )
 
 where:
 
-- `xᵢ = Input`
-- `wᵢ = Weight`
-- `b = Bias`
-- `f = Activation function`
-- `y = Output`
+`xᵢ = Input`
+`wᵢ = Weight`
+`b = Bias`
+`f = Activation function`
+`y = Output`
 
 ## Need for Activation Function
 
