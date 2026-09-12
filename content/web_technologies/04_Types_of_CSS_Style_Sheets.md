@@ -1,7 +1,7 @@
 ---
 title: Types of CSS Style Sheets
 
-description: An exam-ready guide to the three types of CSS style sheets: Inline CSS, Internal CSS, and External CSS, including their syntax, examples, advantages, disadvantages, and CSS priority.
+description: An exam-ready guide to the three types of CSS style sheets. Inline CSS, Internal CSS, and External CSS, including their syntax, examples, advantages, disadvantages, and CSS priority.
 ---
 
 # Types of CSS Style Sheets
