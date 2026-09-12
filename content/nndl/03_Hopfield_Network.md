@@ -1,3 +1,9 @@
+---
+title: Hopfield Network
+
+description: An exam-ready guide to Hopfield Networks, covering discrete and continuous Hopfield models, network architecture, training algorithm, symmetric weights, energy function, stable states, and applications in associative memory, pattern recognition, and optimization.
+---
+
 # Hopfield Network
 
 ## 1. Introduction

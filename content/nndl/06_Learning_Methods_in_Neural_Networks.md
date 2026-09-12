@@ -1,3 +1,9 @@
+---
+title: Learning Methods in Neural Networks
+
+description: An exam-ready guide to learning methods in neural networks, covering Supervised Learning, Unsupervised Learning, and Reinforcement Learning, including their concepts, working steps, examples, applications, advantages, and comparison.
+---
+
 # Learning Methods in Neural Networks
 
 ## 1. Introduction

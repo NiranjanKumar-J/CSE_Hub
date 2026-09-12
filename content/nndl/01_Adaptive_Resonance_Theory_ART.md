@@ -1,3 +1,9 @@
+---
+title: Adaptive Resonance Theory (ART) Network
+
+description: An exam-ready guide to Adaptive Resonance Theory (ART) networks, covering the stability-plasticity dilemma, ART1 architecture, comparison and recognition layers, vigilance parameter, orienting subsystem, reset mechanism, working process, applications, and limitations.
+---
+
 # Adaptive Resonance Theory (ART) Network
 
 **CCS355 — Neural Networks and Deep Learning | 13 Marks**

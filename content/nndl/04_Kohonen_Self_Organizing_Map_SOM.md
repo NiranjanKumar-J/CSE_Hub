@@ -1,3 +1,9 @@
+---
+title: Kohonen Self-Organizing Map (SOM)
+
+description: An exam-ready guide to the Kohonen Self-Organizing Map (SOM), covering its architecture, unsupervised competitive learning, weight initialization and updating, Best Matching Unit (BMU), neighbourhood function, characteristics, advantages, and applications.
+---
+
 # Kohonen Self-Organizing Map (SOM)
 
 **CCS355 — Neural Networks and Deep Learning | 13 Marks**

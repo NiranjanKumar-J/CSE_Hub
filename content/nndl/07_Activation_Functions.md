@@ -1,3 +1,9 @@
+---
+title: Activation Function and Its Types
+
+description: An exam-ready guide to activation functions in neural networks, covering their definition, need, mathematical formula, and seven major types: Binary Step, Linear, Sigmoid, Tanh, ReLU, Leaky ReLU, and Softmax, including formulas, output ranges, characteristics, graphs, applications, and a Softmax example.
+---
+
 # Activation Function and Its Types
 
 **CCS355 — Neural Networks and Deep Learning | 8 Marks**

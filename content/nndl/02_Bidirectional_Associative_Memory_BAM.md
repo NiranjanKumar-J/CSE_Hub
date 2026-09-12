@@ -1,3 +1,9 @@
+---
+title: Bidirectional Associative Memory (BAM)
+
+description: An exam-ready guide to Bidirectional Associative Memory (BAM), covering its architecture, bidirectional operation, working process, Hebbian learning rule, key characteristics, limitations, and applications in associative memory and pattern recognition.
+---
+
 # Bidirectional Associative Memory (BAM)
 
 ## 1. Introduction

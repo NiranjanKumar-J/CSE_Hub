@@ -1,3 +1,9 @@
+---
+title: Iterative and Temporal Associative Memory Networks
+
+description: An exam-ready guide to Iterative Associative Memory (IAM) and Temporal Associative Memory (TAM), covering their concepts, working principles, architectures, examples, advantages, applications, and pattern retrieval processes.
+---
+
 # Iterative and Temporal Associative Memory Networks
 
 **CCS355 — Neural Networks and Deep Learning | 13 Marks**
