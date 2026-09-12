@@ -1,3 +1,9 @@
+---
+title: Exception Handling in JavaScript
+
+description: An exam-ready guide to exception handling in JavaScript, covering try, catch, throw, and finally keywords, their syntax, examples, flow, and common types of JavaScript errors.
+---
+
 # Exception Handling in JavaScript
 
 ## 1. Definition

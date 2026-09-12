@@ -1,3 +1,9 @@
+---
+title: HTML Forms in Web Development
+
+description: An exam-ready guide to HTML forms in web development, covering the form tag and its attributes, GET and POST methods, input types, labels, buttons, form controls, their purposes, and a simple form structure.
+---
+
 # HTML Forms in Web Development
 
 ## 1. Introduction

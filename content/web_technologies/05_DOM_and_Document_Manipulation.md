@@ -1,3 +1,9 @@
+---
+title: DOM (Document Object Model) and Document Manipulation using JavaScript
+
+description: An exam-ready guide to the Document Object Model (DOM) and document manipulation using JavaScript, covering DOM structure, element selection, content and style modification, attribute changes, element creation and removal, event handling, and practical examples.
+---
+
 # DOM (Document Object Model) and Document Manipulation using JavaScript
 
 ## 1. Introduction

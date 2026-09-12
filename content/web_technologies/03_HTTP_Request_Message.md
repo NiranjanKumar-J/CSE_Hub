@@ -1,3 +1,9 @@
+---
+title: HTTP Request Message
+
+description: An exam-ready guide to HTTP request messages, covering their structure, request line, HTTP methods, header fields, blank line, message body, examples, and working process.
+---
+
 # HTTP Request Message
 
 ## 1. Introduction

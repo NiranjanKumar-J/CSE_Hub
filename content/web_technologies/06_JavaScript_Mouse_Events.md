@@ -1,3 +1,9 @@
+---
+title: JavaScript Mouse Events
+
+description: An exam-ready guide to JavaScript mouse events, covering mouseover, mouseout, click, and dblclick events with their syntax, working, program example, explanations, and event summary.
+---
+
 # JavaScript Mouse Events
 
 ## 1. Introduction

@@ -1,3 +1,9 @@
+---
+title: HTML Registration Form for College Admission
+
+description: An exam-ready guide to creating a college admission registration form using HTML, including text fields, radio buttons, checkboxes, drop-down lists, and a submit button.
+---
+
 # HTML Registration Form for College Admission
 
 ## 1. Introduction
